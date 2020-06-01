@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/week4-072.2.YourFirstMoneyTransfer/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week4-072.2.YourFirstMoneyTransfer/lib/cglib-nodep-3.2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week4-072.2.YourFirstMoneyTransfer/lib/powermock-classloading-base-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week4-072.2.YourFirstMoneyTransfer/lib/easymock-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week4-072.2.YourFirstMoneyTransfer/lib/powermock-module-junit4-rule-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week4-072.2.YourFirstMoneyTransfer/lib/javassist-3.24.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week4-072.2.YourFirstMoneyTransfer/lib/powermock-easymock-2.0.2-full.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week4-072.2.YourFirstMoneyTransfer/lib/edu-test-utils-0.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week4-072.2.YourFirstMoneyTransfer/lib/objenesis-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week4-072.2.YourFirstMoneyTransfer/lib/powermock-classloading-objenesis-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week4-072.2.YourFirstMoneyTransfer/lib/junit-4.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tmc-junit-runner25">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/week4-081.PasswordRandomizer/lib/testrunner/tmc-junit-runner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
